@@ -1,0 +1,15 @@
+LOGIN ANOMALY DETECTOR REPORT
+Generated: 2026-07-10
+
+FLAGGED ANOMALIES:
+
+user1 | New York -> London | 45 mins apart
+From IP: 192.168.1.10 | To IP: 203.0.113.22
+
+user4 | Miami -> Tokyo | 30 mins apart
+From IP: 172.16.0.5 | To IP: 198.51.100.9
+
+SUMMARY:
+Total users scanned: 5
+Anomalies detected: 2
+Clean users: 3
